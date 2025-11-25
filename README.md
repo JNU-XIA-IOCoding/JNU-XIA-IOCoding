@@ -467,7 +467,7 @@
 ###
 
 <!-- Right floating Estelle GIF -->
-<img align="right" height="180" src="./assets/images/estelle-main.gif" alt="Estelle - My Inspiration" />
+<img align="right" height="220" src="./assets/images/estelle-main.gif" alt="Estelle - My Inspiration" />
 
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=JNU-XIA-IOCoding)
