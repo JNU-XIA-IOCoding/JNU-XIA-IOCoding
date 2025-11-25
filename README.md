@@ -466,4 +466,10 @@
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=JNU-XIA-IOCoding)
 
+###
+
+<!-- Right floating Estelle GIF -->
+<img align="right" height="280" src="./assets/images/estelle-main.gif" alt="Estelle - My Inspiration" />
+
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JNU-XIA-IOCoding)
