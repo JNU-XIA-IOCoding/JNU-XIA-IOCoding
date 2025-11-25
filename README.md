@@ -157,7 +157,7 @@
 <!-- Large Octocat display -->
 <div align="center">
   <h1>🐙 Our Coding Companion</h1>
-  <img src="./assets/images/octocat-large.png" height="700" alt="Our Mascot - The Code Octocat" />
+  <img src="./assets/images/octocat-large.png" height="600" alt="Our Mascot - The Code Octocat" />
   <br>
   <em>Meet our trusted companion in every coding adventure! This legendary Octocat brings creativity and bug-fighting powers to our development journey. 🚀</em>
 </div>
