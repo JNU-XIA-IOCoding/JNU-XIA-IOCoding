@@ -217,28 +217,28 @@
     <li>Started learning algorithms and problem-solving thinking</li>
   </ul>
 
-  <h3>🚀 2021 - Web Development Fundamentals</h3>
+  <h3>🚀 2025 - Web Development Fundamentals</h3>
   <ul>
     <li>Mastered HTML, CSS, JavaScript basics</li>
     <li>Learned React and Vue.js frontend frameworks</li>
     <li>Completed first personal project website</li>
   </ul>
 
-  <h3>💻 2022 - Deep Dive into Backend Development</h3>
+  <h3>💻 2026 - Deep Dive into Backend Development</h3>
   <ul>
     <li>Learned Java and Spring Boot framework</li>
     <li>Mastered MySQL database design and optimization</li>
     <li>Completed multiple full-stack projects</li>
   </ul>
 
-  <h3>☁️ 2023 - Cloud Computing & DevOps</h3>
+  <h3>☁️ 2027 - Cloud Computing & DevOps</h3>
   <ul>
     <li>Learned Docker containerization technology</li>
     <li>Mastered AWS cloud services fundamentals</li>
     <li>Practiced CI/CD pipeline setup</li>
   </ul>
 
-  <h3>🤖 2024 - AI & Future Technologies</h3>
+  <h3>🤖 2028 - AI & Future Technologies</h3>
   <ul>
     <li>Exploring machine learning and deep learning</li>
     <li>Researching distributed systems and microservices architecture</li>
