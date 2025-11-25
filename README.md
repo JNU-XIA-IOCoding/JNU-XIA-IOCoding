@@ -1,6 +1,4 @@
-# 创建英文版README.md文件
-@"
-<div align="center">
+﻿<div align="center">
 
 <!-- Main animated GIF -->
 <img height="300" src="./assets/images/hello.gif" alt="Hello, I'm JNU-XIA-IOCoding" />
@@ -204,44 +202,6 @@
   
   <h3>🤞 One day I hope to...</h3>
   <p>You know....Love Estelle forever... And create technologies that make the world a better place, inspired by her endless positivity and grace.</p>
-</div>
-
-###
-
-<!-- Skill Proficiency -->
-<div align="center">
-  <h1>🎯 Skill Proficiency</h1>
-  
-  <table align="center">
-    <tr>
-      <td align="right"><strong>Backend Development:</strong></td>
-      <td align="left"><img src="https://progress-bar.dev/85/?width=300&color=007396" alt="Backend Progress" /></td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Frontend Development:</strong></td>
-      <td align="left"><img src="https://progress-bar.dev/80/?width=300&color=F7DF1E" alt="Frontend Progress" /></td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Database Design:</strong></td>
-      <td align="left"><img src="https://progress-bar.dev/75/?width=300&color=4479A1" alt="Database Progress" /></td>
-    </tr>
-    <tr>
-      <td align="right"><strong>Cloud & DevOps:</strong></td>
-      <td align="left"><img src="https://progress-bar.dev/70/?width=300&color=326CE5" alt="Cloud Progress" /></td>
-    </tr>
-    <tr>
-      <td align="right"><strong>AI/ML Concepts:</strong></td>
-      <td align="left"><img src="https://progress-bar.dev/65/?width=300&color=3776AB" alt="AI Progress" /></td>
-    </tr>
-  </table>
-</div>
-
-###
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <h1>🏆 GitHub Achievements</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=JNU-XIA-IOCoding&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ###
@@ -502,6 +462,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+coding+keep+exploring+💻;Estelle+inspires+every+innovation+💫;The+Octocat+guides+our+tech+journey+😺;Dream+Big+Code+With+Passion+🚀" alt="Footer Message" />
 </div>
-"@ | Out-File -FilePath "README.md" -Encoding UTF8
-
-Write-Host "✅ English README.md created successfully" -ForegroundColor Green
