@@ -34,8 +34,3 @@ dist/
 build/
 *.tgz
 *.tar.gz
-
-# Environment variables
-.env
-.env.local
-.env.production
