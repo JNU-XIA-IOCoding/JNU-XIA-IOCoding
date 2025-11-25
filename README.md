@@ -426,7 +426,8 @@
   <h4>🌃 Evening (20:00-22:00)</h4>
   <p>Learning algorithms, contributing to open source projects, reflection</p>
 </div>
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JNU-XIA-IOCoding)
+
+
 ###
 
 
