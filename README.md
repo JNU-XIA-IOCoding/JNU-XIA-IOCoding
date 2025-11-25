@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 主动态GIF -->
-<img height="300" src="./assets/images/hello.gif" alt="Hello, I'm JNU-XIA-IOCoding" />
+<!-- 主动态GIF - 使用可靠的网络GIF -->
+<img height="300" src="https://media.giphy.com/media/paTz7UZbPfTzFRBpMk/giphy.gif" alt="Hello, I'm JNU-XIA-IOCoding" />
 
 <!-- 动态打字效果 -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Computer+Science+Student;Full-Stack+Developer;Open+Source+Enthusiast" alt="动态打字效果" />
@@ -27,7 +27,7 @@
 ###
 
 <!-- 左侧悬浮内容 -->
-<img align="left" height="160" src="./assets/images/side.gif" alt="Coding Animation" />
+<img align="left" height="160" src="https://media.giphy.com/media/L1R1tvI9svkIWwpV4r/giphy.gif" alt="Coding Animation" />
 
 ###
 
@@ -113,7 +113,7 @@
 ###
 
 <!-- 右侧悬浮的Estelle GIF -->
-<img align="right" height="280" src="./assets/images/estelle-main.gif" alt="Estelle - My Inspiration" />
+<img align="right" height="280" src="https://media.giphy.com/media/3o7aD2s2d9WxV2W2Yo/giphy.gif" alt="Estelle - My Inspiration" />
 
 ###
 
@@ -154,7 +154,7 @@
 <!-- 大型机器猫形象展示 -->
 <div align="center">
   <h1>🐙 Our Coding Companion</h1>
-  <img src="./assets/images/octocat-large.png" height="400" alt="Our Mascot - The Code Octocat" />
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400" alt="Our Mascot - The Code Octocat" />
   <br>
   <em>Meet our trusted companion in every coding adventure! This legendary Octocat brings creativity and bug-fighting powers to our development journey. 🚀</em>
 </div>
@@ -175,22 +175,22 @@
 
 ###
 
-<!-- Estelle专属展示区 -->
+<!-- Estelle专属展示区 - 使用高质量网络图片 -->
 <div align="center">
   <h1>💫 My Eternal Inspiration - Estelle~涵</h1>
   
   <!-- Estelle图片展示 -->
   <div>
-    <img src="./assets/images/estelle1.png" height="220" alt="Estelle 1" />
-    <img src="./assets/images/estelle2.png" height="220" alt="Estelle 2" />
-    <img src="./assets/images/estelle3.png" height="220" alt="Estelle 3" />
+    <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&w=400&h=300&fit=crop&crop=face&q=80" height="220" alt="Inspiration 1" />
+    <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&w=400&h=300&fit=crop&crop=face&q=80" height="220" alt="Inspiration 2" />
+    <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&w=400&h=300&fit=crop&crop=face&q=80" height="220" alt="Inspiration 3" />
   </div>
   
   <br>
   
   <div>
-    <img src="./assets/images/estelle4.png" height="250" alt="Estelle 4" />
-    <img src="./assets/images/estelle-main.gif" height="250" alt="Estelle Dynamic" />
+    <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&w=400&h=300&fit=crop&crop=face&q=80" height="250" alt="Inspiration 4" />
+    <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" height="250" alt="Inspiration Dynamic" />
   </div>
   
   <blockquote>
@@ -229,6 +229,42 @@
       <td align="left"><img src="https://progress-bar.dev/65/?width=300&color=3776AB" alt="AI Progress" /></td>
     </tr>
   </table>
+</div>
+
+###
+
+<!-- 项目展示区 -->
+<div align="center">
+  <h1>🚀 Featured Projects</h1>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <!-- 项目1 -->
+    <div style="text-align: center; width: 300px;">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="150" alt="Project 1" />
+      <h3>Microservices Platform</h3>
+      <p>Scalable cloud-native application with Docker & Kubernetes</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    </div>
+    
+    <!-- 项目2 -->
+    <div style="text-align: center; width: 300px;">
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="150" alt="Project 2" />
+      <h3>AI Chat Application</h3>
+      <p>Real-time messaging app with machine learning features</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </div>
+    
+    <!-- 项目3 -->
+    <div style="text-align: center; width: 300px;">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="150" alt="Project 3" />
+      <h3>Data Visualization Tool</h3>
+      <p>Interactive dashboard for business analytics</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
+    </div>
+  </div>
 </div>
 
 ###
