@@ -168,8 +168,6 @@
 <div align="center">
   <h1>📊 GitHub Analytics</h1>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JNU-XIA-IOCoding&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNU-XIA-IOCoding&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNU-XIA-IOCoding&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
   
   <!-- GitHub Activity Graph -->
@@ -462,3 +460,4 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+coding+keep+exploring+💻;Estelle+inspires+every+innovation+💫;The+Octocat+guides+our+tech+journey+😺;Dream+Big+Code+With+Passion+🚀" alt="Footer Message" />
 </div>
+
