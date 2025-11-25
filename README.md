@@ -17,9 +17,6 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white" height="30" alt="Portfolio" />
-  </a>
 </div>
 
 </div>
@@ -168,9 +165,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JNU-XIA-IOCoding&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNU-XIA-IOCoding&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNU-XIA-IOCoding&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-  
-  <!-- GitHub活动图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JNU-XIA-IOCoding&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=My+Weekly+Development+Activity" width="100%" alt="Coding Activity" />
 </div>
 
 ###
@@ -196,9 +190,6 @@
   <blockquote>
     <em>"A constant source of motivation and inspiration in every line of code I write. Estelle's presence fuels my passion for technology and innovation."</em>
   </blockquote>
-  
-  <h3>🤞 One day I hope to...</h3>
-  <p>You know....Love Estelle forever... And create technologies that make the world a better place, inspired by her endless positivity and grace.</p>
 </div>
 
 ###
@@ -245,16 +236,6 @@
 <div align="center">
   <h1>👀 Visitor Count</h1>
   <img src="https://komarev.com/ghpvc/?username=JNU-XIA-IOCoding&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
-  <br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJNU-XIA-IOCoding%2FJNU-XIA-IOCoding&countColor=%23263759&style=for-the-badge" alt="Visitors Badge"/>
-</div>
-
-###
-
-<!-- 名言 -->
-<div align="center">
-  <h1>💡 Daily Inspiration</h1>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quotes" />
 </div>
 
 ###
