@@ -465,3 +465,4 @@
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JNU-XIA-IOCoding)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=JNU-XIA-IOCoding)
