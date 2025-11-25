@@ -464,12 +464,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+coding+keep+exploring+💻;Estelle+inspires+every+innovation+💫;The+Octocat+guides+our+tech+journey+😺;Dream+Big+Code+With+Passion+🚀" alt="Footer Message" />
 </div>
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=JNU-XIA-IOCoding)
-
 ###
 
 <!-- Right floating Estelle GIF -->
 <img align="right" height="180" src="./assets/images/estelle-main.gif" alt="Estelle - My Inspiration" />
+
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=JNU-XIA-IOCoding)
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JNU-XIA-IOCoding)
