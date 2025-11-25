@@ -1,193 +1,159 @@
 <div align="center">
-  <!-- 动态欢迎语和主要Octocat形象 -->
-  <img src="https://raw.githubusercontent.com/JNU-XIA-IOCoding/JNU-XIA-IOCoding/main/assets/images/octocat.png" height="250" alt="我们的机器猫" />
-</div>
 
-###
+<!-- 动态打字机效果 -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+JNU-XIA-IOCoding;CS+Student+@Jinan+University;Full-Stack+Developer;Open+Source+Enthusiast" alt="动态打字效果" />
 
-<div align="center">
-  <!-- 社交徽章 -->
+<!-- 主要机器猫形象 -->
+<img src="./assets/images/octocat-large.png" height="300" alt="我们的代码伙伴 - 机器猫" />
+
+<!-- 社交徽章墙 -->
+<div>
   <a href="https://github.com/JNU-XIA-IOCoding">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/个人博客-4FC08D?style=for-the-badge&logo=blogger&logoColor=white" height="25" alt="个人博客" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white&labelColor=000000" alt="作品集" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="邮箱" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="邮箱" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Blog-4FC08D?style=for-the-badge&logo=blogger&logoColor=white&labelColor=000000" alt="技术博客" />
   </a>
 </div>
 
-###
+<!-- 动态数据统计 -->
+<div>
+  <img src="https://komarev.com/ghpvc/?username=JNU-XIA-IOCoding&label=Profile+Views&color=blue&style=flat" alt="访问量" />
+  <img src="https://wakatime.com/badge/user/your-user-id.svg" alt="编码时间" />
+</div>
 
-<h1 align="center">Hey there 👋 I'm JNU-XIA-IOCoding!</h1>
+</div>
 
-<!-- 左侧悬浮小机器猫 -->
-<img align="left" height="145" src="https://raw.githubusercontent.com/JNU-XIA-IOCoding/JNU-XIA-IOCoding/main/assets/images/octocat-small.gif" alt="小机器猫" />
+<!-- 关于我部分 - 左侧悬浮 -->
+<div align="left">
 
-###
+<img align="right" height="280" src="./assets/images/estelle-gif.gif" alt="Estelle动态展示" />
 
-<h1 align="left">🛠 Language and Tools</h1>
+### 👨‍💻 关于我
 
-###
+<p>
+🎓 <b>暨南大学计算机科学专业</b> - 探索代码世界的奥秘<br>
+💡 热衷于<em>全栈开发</em>与<em>系统架构设计</em><br>
+🚀 目前专注于 <strong>分布式系统</strong> 与 <strong>云原生技术</strong><br>
+🤖 对<strong>人工智能</strong>和<strong>机器学习</strong>充满好奇<br>
+📚 坚信技术能够创造积极的社会影响<br>
+🎯 2025目标：贡献10个开源项目，掌握云原生架构
+</p>
+
+<!-- 技术标签云 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</div>
+
+</div>
 
 <br clear="both">
 
-<div align="center">
-  <!-- 技术栈图标第一行 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vuejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs" />
-</div>
-
-<br>
+### 🛠 技术栈深度
 
 <div align="center">
-  <!-- 技术栈图标第二行 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis" />
+
+<!-- 动态技能进度条 -->
+| 领域 | 熟练度 | 技术 |
+|------|--------|------|
+| **后端开发** | ![Java](https://progress-bar.dev/85/?width=200&color=007396) | Java, Spring Boot, MySQL |
+| **前端开发** | ![Frontend](https://progress-bar.dev/78/?width=200&color=F7DF1E) | React, Vue, TypeScript |
+| **云原生** | ![Cloud](https://progress-bar.dev/70/?width=200&color=326CE5) | Docker, Kubernetes, AWS |
+| **数据科学** | ![Data](https://progress-bar.dev/65/?width=200&color=3776AB) | Python, Pandas, Scikit-learn |
+| **移动开发** | ![Mobile](https://progress-bar.dev/60/?width=200&color=61DAFB) | React Native, Flutter |
+
 </div>
 
-<!-- 右侧悬浮的机器猫与"About Me"部分 -->
-<img align="right" height="250" src="https://raw.githubusercontent.com/JNU-XIA-IOCoding/JNU-XIA-IOCoding/main/assets/images/octocat-2.png" alt="机器猫伙伴" />
-
-###
-
-<h1 align="left">👩‍💻 About Me</h1>
-
-###
-
-<p align="left">
-- 🏫 Computer Science student at Jinan University<br>
-- 💻 Passionate about software development and open source<br>
-- 🚀 Focused on full-stack development and system design<br>
-- 🌱 Currently exploring distributed systems, cloud computing and Artificial Intelligence<br>
-- ✨ Believer in technology for positive change<br>
-- 😺 And of course, a big fan of Octocat!
-</p>
-
-###
-
-<h1 align="left">⬆ What I'm up to</h1>
-
-<!-- 右侧悬浮的机器猫与"What I'm up to"部分 -->
-<img align="right" height="250" src="https://raw.githubusercontent.com/JNU-XIA-IOCoding/JNU-XIA-IOCoding/main/assets/images/octocat-3.png" alt="工作中的机器猫" />
-
-###
-
-<h3 align="left">🔨 I'm currently...</h3>
-
-###
-
-<p align="left">
-- Building scalable web applications<br>
-- Learning cloud-native technologies<br>
-- Contributing to open source projects<br>
-- Exploring AI/ML applications<br>
-- Designing my own Octocat variations!
-</p>
-
-###
-
-<h2 align="left">🤞 One day I hope to...</h2>
-
-###
-
-<p align="left">
-You know....Love Estelle forever...<br>
-And maybe create an AI-powered Octocat assistant! 🤖😺
-</p>
-
-###
-
-<h3 align="left">Estelle~涵 💖</h3>
-
-<!-- 专门的机器猫展示区域 -->
-<div align="center">
-  <h2>🚀 Meet Our Mascot: The Code Octocat! 🚀</h2>
-  <img height="350" src="https://raw.githubusercontent.com/JNU-XIA-IOCoding/JNU-XIA-IOCoding/main/assets/images/octocat-large.png" alt="我们的吉祥物：代码机器猫" />
-  <br>
-  <em>This legendary Octocat joins our coding adventures, bringing along infinite creativity and bug-fighting powers! 🐙💻</em>
-</div>
-
-###
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=JNU-XIA-IOCoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JNU-XIA-IOCoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<!-- 好玩的代码活动图 -->
-<div align="center">
-  <h2>💻 Coding Activity (Last 7 Days)</h2>
-  <!-- 注意：此处需替换为您自己的WakaTime或类似服务的统计图链接 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JNU-XIA-IOCoding&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Recent Coding Activity" width="100%"/>
-</div>
-
-###
-
-<!-- 趣味技能条 -->
-<div align="center">
-  <h2>🎯 My Skills Level</h2>
-
-  **Java** ![Java](https://progress-bar.dev/85/?title=Java&width=200&color=007396)
-  **Python** ![Python](https://progress-bar.dev/80/?title=Python&width=200&color=3776AB)
-  **JavaScript/TypeScript** ![JavaScript/TypeScript](https://progress-bar.dev/75/?title=JavaScript/TypeScript&width=200&color=F7DF1E)
-  **React & Vue** ![React&Vue](https://progress-bar.dev/70/?title=React&Vue&width=200&color=61DAFB)
-  **Database** ![Database](https://progress-bar.dev/75/?title=Database&width=200&color=4479A1)
-  **DevOps** ![DevOps](https://progress-bar.dev/65/?title=DevOps&width=200&color=2496ED)
-</div>
-
-###
-
-<!-- 名言 -->
-<div align="center">
-  <h2>💡 Favorite Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="随机名言" />
-</div>
-
-###
-
-<!-- 访客计数 -->
-<div align="center">
-  <h2>👀 Visitors Count</h2>
-  <img src="https://komarev.com/ghpvc/?username=JNU-XIA-IOCoding&label=Profile%20Views&color=0e75b6&style=flat" alt="页面访问计数" />
-  <br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJNU-XIA-IOCoding%2FJNU-XIA-IOCoding&countColor=%23263759" alt="访客徽章"/>
-</div>
-
-###
-
-<!-- 打字动画 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Keep+coding,+keep+exploring!;&center=true&size=20&color=58A6FF&width=500&height=50" alt="打字动画">
-</div>
-
-###
+### 📊 GitHub 数据全景
 
 <div align="center">
-  <h3>⭐ Keep coding, keep exploring! And may the Octocat be with you! ⭐</h3>
+
+<!-- GitHub统计卡片 -->
+<img src="https://github-readme-stats.vercel.app/api?username=JNU-XIA-IOCoding&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNU-XIA-IOCoding&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JNU-XIA-IOCoding&theme=radical&hide_border=true" alt="连续贡献" height="165" />
+
+<!-- GitHub活动图 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JNU-XIA-IOCoding&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Recent+Coding+Activity" alt="编程活动图" width="100%" />
+
 </div>
+
+### 🌟 Estelle 专属展示区
+
+<div align="center">
+
+<h3>💫 My Eternal Inspiration - Estelle~涵</h3>
+
+<!-- Estelle图片网格 -->
+<div align="center">
+  <img src="./assets/images/estelle1.png" height="200" alt="Estelle 1" />
+  <img src="./assets/images/estelle2.png" height="200" alt="Estelle 2" />
+  <img src="./assets/images/estelle3.png" height="200" alt="Estelle 3" />
+</div>
+
+<div align="center">
+  <img src="./assets/images/estelle-gif.gif" height="250" alt="Estelle动态" />
+  <img src="./assets/images/estelle4.png" height="250" alt="Estelle 4" />
+</div>
+
+<blockquote>
+  <em>"A constant source of motivation and inspiration in every line of code I write."</em>
+</blockquote>
+
+</div>
+
+### 🚀 当前动态与发展轨迹
+
+<div align="center">
+
+<!-- 项目时间线 -->
+| 🎯 短期目标 | 🚀 中期规划 | 🌟 长期愿景 |
+|------------|------------|------------|
+| 🔹 完善微服务项目 | 🔸 掌握云原生架构 | 🌐 打造技术产品 |
+| 🔹 LeetCode 每日一题 | 🔸 参与开源项目贡献 | 💡 创立技术博客 |
+| 🔹 学习K8s深度实践 | 🔸 深入AI/ML领域 | 🏆 成为架构师 |
+
+</div>
+
+### 📈 能力雷达图
+
+<!-- 技能雷达图 -->
+<div align="center">
+  
+```mermaid
+radar
+    title 技术能力雷达图
+    axis Backend["后端开发"], Frontend["前端开发"], Cloud["云原生"], Data["数据处理"], DevOps["DevOps"], AI["人工智能"]
+    
+    curve JNU-XIA-IOCoding[我的技能] {85, 78, 70, 65, 75, 60}
+    curve target[目标水平] {90, 85, 85, 80, 85, 75}
+    
+    max 100
+</div>
+🏆 GitHub 荣誉墙
+<div align="center"><!-- GitHub奖杯 --><img src="https://github-profile-trophy.vercel.app/?username=JNU-XIA-IOCoding&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub奖杯" /><!-- 随机名言 --><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="每日名言" height="150" /></div>
+📫 联系与合作
+<div align="center"><!-- 联系按钮 --><a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="发送邮件" /> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/JNU-XIA-IOCoding"> <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a></div>
+<div align="center">
+⚡ 实时数据
+<!-- 动态数据 --><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JNU-XIA-IOCoding&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="编码时间" />
+感谢访问我的 GitHub 主页！
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Keep+coding+keep+exploring+💻;Estelle+inspires+every+line+of+code+💫;The+Octocat+watches+over+our+journey+😺" alt="底部标语" /></div> ```
