@@ -210,7 +210,7 @@
 </div>
 
 <div align="left" style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; margin: 20px 0;">
-  <h3>🎓 2020 - Beginning of Programming Journey</h3>
+  <h3>🎓 2024 - Beginning of Programming Journey</h3>
   <ul>
     <li>Learned Python basic syntax and data structures</li>
     <li>Completed first "Hello World" program</li>
