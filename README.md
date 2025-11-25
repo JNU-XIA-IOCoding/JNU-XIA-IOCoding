@@ -114,7 +114,7 @@
 ###
 
 <!-- Right floating Estelle GIF -->
-<img align="right" height="400" src="./assets/images/estelle-main.gif" alt="Estelle - My Inspiration" />
+<img align="right" height="430" src="./assets/images/estelle-main.gif" alt="Estelle - My Inspiration" />
 
 ###
 
