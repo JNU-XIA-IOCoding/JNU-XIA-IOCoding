@@ -1,3 +1,5 @@
+# 创建README.md内容
+@"
 <div align="center">
 
 <!-- 主动态GIF -->
@@ -162,6 +164,7 @@
 <div align="center">
   <h1>📊 GitHub Analytics</h1>
   
+  <!-- 用户要求的GitHub统计卡片 -->
   <img src="https://github-readme-stats.vercel.app/api?username=JNU-XIA-IOCoding&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNU-XIA-IOCoding&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNU-XIA-IOCoding&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
@@ -175,15 +178,15 @@
   
   <!-- Estelle图片展示 -->
   <div>
-    <img src="./assets/images/estelle1.png" height="220" alt="Estelle 1" />
-    <img src="./assets/images/estelle2.png" height="220" alt="Estelle 2" />
-    <img src="./assets/images/estelle3.png" height="220" alt="Estelle 3" />
+    <img src="https://via.placeholder.com/220x220/FF6B6B/FFFFFF?text=Estelle+1" height="220" alt="Estelle 1" />
+    <img src="https://via.placeholder.com/220x220/4ECDC4/FFFFFF?text=Estelle+2" height="220" alt="Estelle 2" />
+    <img src="https://via.placeholder.com/220x220/45B7D1/FFFFFF?text=Estelle+3" height="220" alt="Estelle 3" />
   </div>
   
   <br>
   
   <div>
-    <img src="./assets/images/estelle4.png" height="250" alt="Estelle 4" />
+    <img src="https://via.placeholder.com/250x250/96CEB4/FFFFFF?text=Estelle+4" height="250" alt="Estelle 4" />
     <img src="./assets/images/estelle-main.gif" height="250" alt="Estelle Dynamic" />
   </div>
   
@@ -261,3 +264,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+coding+keep+exploring+💻;Estelle+inspires+every+innovation+💫;The+Octocat+guides+our+tech+journey+😺" alt="Footer Message" />
 </div>
+"@ | Out-File -FilePath "README.md" -Encoding UTF8
+
+Write-Host "README.md 创建完成" -ForegroundColor Green
